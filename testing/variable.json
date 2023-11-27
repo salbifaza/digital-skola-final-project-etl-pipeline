@@ -1,0 +1,5 @@
+{
+    "mysql_connection": "mysql-salbi",
+    "pg_connection": "pg-salbi",
+    "api_url": "http://103.150.197.96:5005/api/v1/rekapitulasi_v2/jabar/harian?level=kab%22"
+}
